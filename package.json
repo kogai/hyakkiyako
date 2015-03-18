@@ -1,0 +1,26 @@
+{
+  "name": "obake",
+  "version": "1.0.0",
+  "description": "creat list of all pages by phantomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kogai/obake.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "npm"
+  ],
+  "author": "kogai shinichi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kogai/obake/issues"
+  },
+  "homepage": "https://github.com/kogai/obake",
+  "dependencies": {
+    "phantomjs": "^1.9.16"
+  }
+}
