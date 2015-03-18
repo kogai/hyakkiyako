@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "dev": "env NODE_PATH=./ node-dev --debug index.js"
+    "dev": "env NODE_PATH=./ node-dev --debug app.js"
   },
   "repository": {
     "type": "git",
