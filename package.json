@@ -1,6 +1,6 @@
 {
   "name": "hyakkiyako",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "creat list of all pages by phantomjs",
   "main": "index.js",
   "scripts": {
