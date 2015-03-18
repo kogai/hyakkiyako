@@ -4,7 +4,8 @@
   "description": "creat list of all pages by phantomjs",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "env NODE_PATH=./ node-dev --debug index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,12 @@
   },
   "homepage": "https://github.com/kogai/obake",
   "dependencies": {
-    "phantomjs": "^1.9.16"
+    "phantom": "^0.7.2",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.2.0",
+    "node-dev": "^2.6.1"
   }
 }

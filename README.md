@@ -1,1 +1,2 @@
-# OBAKE / Phantom.jsでサイトの全ページリストを取得する
+# OBAKE
+Phantom.jsでサイトの全ページリストを取得するnpm
