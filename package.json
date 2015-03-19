@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "env NODE_PATH=./ ./node_modules/.bin/mocha",
+    "wip": "env NODE_PATH=./ ./node_modules/.bin/mocha ./test/lib/_checkUniqLink",
     "dev": "env NODE_PATH=./ node-dev --debug app.js"
   },
   "repository": {
