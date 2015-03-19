@@ -4,7 +4,7 @@
   "description": "creat list of all pages by phantomjs",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "env NODE_PATH=./ ./node_modules/.bin/mocha",
     "dev": "env NODE_PATH=./ node-dev --debug app.js"
   },
   "repository": {
