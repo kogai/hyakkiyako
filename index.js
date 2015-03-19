@@ -1,2 +1,2 @@
-var bundle = require('./lib/bundle');
-module.exports = bundle;
+var hundler = require('./lib/hundler');
+module.exports = hundler;
