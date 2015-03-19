@@ -17,4 +17,4 @@ deployment:
   staging:
     branch: develop
     commands:
-      -./pl_to_master.sh
+      - ./pl_to_master.sh
