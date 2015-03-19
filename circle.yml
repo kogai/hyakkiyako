@@ -12,3 +12,9 @@ machine:
 test:
   post:
     - npm run test
+
+deployment:
+  staging:
+    branch: develop
+    commands:
+      - ./pl_to_master.sh
