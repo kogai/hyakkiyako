@@ -20,5 +20,5 @@ hyakkiyako('https://www.npmjs.com/')
 
 ```
 
-TODO
-- test
+## current todo
+see [here](https://github.com/kogai/hyakkiyako/blob/master/TODO.md)
