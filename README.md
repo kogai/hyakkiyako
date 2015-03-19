@@ -1,6 +1,8 @@
 # hyakkiyako
-A utility for phantomjs, pass a list of the pages within the site.
+A utility for nodejs, pass a list of the pages within the site.
+using phantomjs.
 
+[![Circle CI](https://circleci.com/gh/kogai/hyakkiyako.svg?style=svg)](https://circleci.com/gh/kogai/hyakkiyako) [![npm version](https://badge.fury.io/js/hyakkiyako.svg)](http://badge.fury.io/js/hyakkiyako)
 
 ## install
 ```shell
@@ -21,4 +23,4 @@ hyakkiyako('https://www.npmjs.com/')
 ```
 
 ## current todo
-see [here](https://github.com/kogai/hyakkiyako/blob/master/TODO.md)
+See [here](https://github.com/kogai/hyakkiyako/blob/master/TODO.md)
