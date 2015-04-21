@@ -27,8 +27,13 @@
     "underscore": "^1.8.2"
   },
   "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.8.11",
+    "gulp-data": "^1.2.0",
+    "gulp-jade": "^1.0.0",
+    "gulp-util": "^3.0.4",
     "mocha": "^2.2.1",
-    "should": "^5.2.0",
-    "node-dev": "^2.6.1"
+    "node-dev": "^2.6.1",
+    "should": "^5.2.0"
   }
 }
